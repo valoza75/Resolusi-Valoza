@@ -1,0 +1,8 @@
+RENCANA KONTEN VALOZA
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework
+- Interview 
+- Vlog
